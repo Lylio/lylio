@@ -1,6 +1,7 @@
 <h1>@lylio</h1>
 
 <!-- Languages -->
+<p><sub>Languages</sub></p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40" />&nbsp;&nbsp;
@@ -9,6 +10,7 @@
 </p>
 
 <!-- Frameworks and platforms -->
+<p><sub>Frameworks &amp; platforms</sub></p>
 <p>
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png" title="Spring Boot" alt="Spring Boot" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;&nbsp;
@@ -17,6 +19,7 @@
 </p>
 
 <!-- Data and tooling -->
+<p><sub>Data &amp; tooling</sub></p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;&nbsp;
